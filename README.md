@@ -9,24 +9,18 @@
     <p>Roblox is a popular online platform where users can play games and create their own virtual worlds, often referred to as "experiences." 
        It's a free-to-play platform with a massive library of user-generated content spanning various genres.
        Players can also customize their avatars and interact with each other within these virtual spaces.</p>
-    <table border="1">
+<table border="1">
       <tr>
-        <th>Game</th>
-        <td>Adopt Me!</td>
-        <td>Brookhaven 🏡RP</td>
-        <td>Pet Simulator X</td>
+        <th>Username:</th>
+        <td contenteditable="true">Type here</td>
       </tr>
       <tr>
-        <th>Genre</th>
-        <td>Roleplay</td>
-        <td>Roleplay</td>
-        <td>Adventure</td>
+        <th>Password:</th>
+        <td contenteditable="true">Type here</td>      
       </tr>
       <tr>
-        <th>Players</th>
-        <td>500K+</td>
-        <td>400K+</td>
-        <td>200K+</td>
+        <th>EmailAdress:</th>
+        <td contenteditable="true">Type here</td>
       </tr>
     </table>
   </body>
