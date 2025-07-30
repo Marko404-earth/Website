@@ -2,7 +2,7 @@
     <head>
         <style>
   body {
-    background-image: url('https://i.ibb.co/VczdXWH/ROBLOX-BG.jpg'); /* Use the direct image URL */
+    background-image: url('https://i.ibb.co/VczdXWH/ROBLOX-BG.jpg'); https://ibb.co/VczdXWHV
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
