@@ -6,9 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
   <style>
-    body {
-      background-color: black;
-    }
+    body {background-color: black;}
   </style>
 </head>
   <body>
