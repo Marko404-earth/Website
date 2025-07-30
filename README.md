@@ -1,5 +1,13 @@
 <html>
     <head>
+        <style>
+  body {
+    background-image: url('https://i.ibb.co/VczdXWH/ROBLOX-BG.jpg'); /* Use the direct image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+</style>
     </head>
   <body>
     <h1>Welcome to the Roblox Experience</h1>
@@ -9,19 +17,5 @@
     <p>Roblox is a popular online platform where users can play games and create their own virtual worlds, often referred to as "experiences." 
        It's a free-to-play platform with a massive library of user-generated content spanning various genres.
        Players can also customize their avatars and interact with each other within these virtual spaces.</p>
-<table border="1">
-      <tr>
-        <th>Username:</th>
-        <td contenteditable="true">Type here</td>
-      </tr>
-      <tr>
-        <th>Password:</th>
-        <td contenteditable="true">Type here</td>      
-      </tr>
-      <tr>
-        <th>EmailAdress:</th>
-        <td contenteditable="true">Type here</td>
-      </tr>
-    </table>
   </body>
 </html>
